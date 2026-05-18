@@ -1,3 +1,6 @@
+# 🚀 GitHub Profile README - Karen Gómez
+
+```md
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
@@ -5,13 +8,17 @@
 
 <h1 align="center">Karen Gómez</h1>
 
+<!-- SUBTÍTULO ACADÉMICO / PROFESIONAL -->
+<p align="center">
+Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Automation" />
 </p>
 
 ---
 
-<!-- ===================== QUICK INFO CARDS ===================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/📊-Data_Analytics-f73c7b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📈-Power_BI-yellow?style=for-the-badge" />
@@ -73,6 +80,4 @@
 💼 linkedin.com/in/karen-gomez97  
 📍 Argentina / España
 </p>
-
-
-
+```
