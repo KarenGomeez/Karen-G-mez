@@ -1,6 +1,3 @@
-# 🚀 GitHub Profile README - Karen Gómez
-
-```md
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
@@ -8,9 +5,9 @@
 
 <h1 align="center">Karen Gómez</h1>
 
-<!-- SUBTÍTULO ACADÉMICO / PROFESIONAL -->
+<!-- 👇 AQUÍ ESTÁ LO QUE PEDISTE -->
 <p align="center">
-Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
+  Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
 </p>
 
 <p align="center">
@@ -19,6 +16,7 @@ Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
 
 ---
 
+<!-- ===================== QUICK INFO CARDS ===================== -->
 <p align="center">
   <img src="https://img.shields.io/badge/📊-Data_Analytics-f73c7b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/📈-Power_BI-yellow?style=for-the-badge" />
@@ -80,4 +78,3 @@ Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
 💼 linkedin.com/in/karen-gomez97  
 📍 Argentina / España
 </p>
-```
