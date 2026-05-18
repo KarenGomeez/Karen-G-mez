@@ -44,22 +44,6 @@
   <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,git,github,vscode,linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karen-G-mez&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-G-mez&layout=compact&theme=radical" height="170"/>
-</p>
-
----
-
-## 🔥 Actividad
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karen-G-mez&theme=react-dark" />
-</p>
 
 ---
 
