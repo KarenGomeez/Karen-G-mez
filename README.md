@@ -1,4 +1,4 @@
-# 🚀 GitHub Profile README - Karen Gómez
+# 🚀 - Karen Gómez
 
 ```md
 <!-- BANNER PRINCIPAL -->
