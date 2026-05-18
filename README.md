@@ -1,12 +1,17 @@
-<img width="1535" height="1024" alt="karen j" src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
-<!-- BANNER -->
+# 🚀 GitHub Profile README - Karen Gómez
+
+```md
+<!-- BANNER PRINCIPAL -->
 <p align="center">
-  <img src="![Uploading karen j.jpeg…]()" />
+  <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" alt="Karen Banner" />
 </p>
 
-<h1 align="center">Hola 👋, soy Karen Gómez</h1>
-<h3 align="center">Analista de Sistemas | Data Analyst Jr. | Ciencias de Datos</h3>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos+Jr;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Visualization" />
+</p>
 
+<!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi" />
@@ -18,14 +23,13 @@
 
 ## 💫 Sobre mí
 
-Soy **Analista de Sistemas y Licenciada en Ciencias de Datos**, enfocada en análisis, visualización y gestión de datos para toma de decisiones.
+Analista de Sistemas y Licenciada en Ciencias de Datos enfocada en **análisis, visualización y gestión de datos** para la toma de decisiones.
 
-Me especializo en:
-- 📊 Análisis y visualización de datos
-- 📈 KPIs, reportes y métricas SLA
-- 🧠 Optimización de procesos
-- 🗂️ Gestión y limpieza de datos
-- ⚙️ Soporte técnico y análisis de incidencias
+📊 Me especializo en:
+- KPIs, reportes y métricas SLA
+- Visualización de datos (Power BI / Excel)
+- Análisis y limpieza de datos
+- Soporte técnico y gestión de incidencias
 
 ---
 
@@ -62,14 +66,15 @@ Me especializo en:
 
 ---
 
-
 ## 📫 Contacto
 
 - 📧 Email: karengomeez97@gmail.com  
-- 💼 LinkedIn: [TU LINK AQUÍ  ](https://www.linkedin.com/in/karen-gomez97/)
-- 📍 Argentina / España  
+- 💼 LinkedIn: https://www.linkedin.com/in/karen-gomez97/
+- 📍 Argentina / España
 
 ---
+
+
 
 
 
