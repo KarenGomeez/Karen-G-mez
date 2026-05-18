@@ -62,27 +62,14 @@ Me especializo en:
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Karen-G-mez&theme=radical" />
-</p>
-
----
 
 ## 📫 Contacto
 
 - 📧 Email: karengomeez97@gmail.com  
-- 💼 LinkedIn: TU LINK AQUÍ  
+- 💼 LinkedIn: [TU LINK AQUÍ  ](https://www.linkedin.com/in/karen-gomez97/)
 - 📍 Argentina / España  
 
 ---
-
-## 🎨 Estilo
-
-- Dark mode moderno
-- Colores fucsia / rojo / violeta
-- Enfoque profesional (CV / recruiters)
 
 
 
