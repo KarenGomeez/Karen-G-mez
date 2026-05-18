@@ -1,6 +1,7 @@
+<img width="1535" height="1024" alt="karen j" src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,23,30&height=220&section=header&text=Karen%20Gómez&fontSize=40&fontColor=ffffff" />
+  <img src="![Uploading karen j.jpeg…]()" />
 </p>
 
 <h1 align="center">Hola 👋, soy Karen Gómez</h1>
@@ -82,3 +83,13 @@ Me especializo en:
 - Dark mode moderno
 - Colores fucsia / rojo / violeta
 - Enfoque profesional (CV / recruiters)
+
+
+
+
+
+
+
+
+
+
