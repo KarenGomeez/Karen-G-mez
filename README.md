@@ -1,87 +1,78 @@
-# 🚀 - Karen Gómez
-
-```md
-<!-- BANNER PRINCIPAL -->
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" alt="Karen Banner" />
+  <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos+Jr;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Visualization" />
-</p>
+<h1 align="center">Karen Gómez</h1>
 
-<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel" />
-  <img src="https://img.shields.io/badge/Python-Data-fuchsia?style=for-the-badge&logo=python" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Automation" />
 </p>
 
 ---
 
-## 💫 Sobre mí
-
-Analista de Sistemas y Licenciada en Ciencias de Datos enfocada en **análisis, visualización y gestión de datos** para la toma de decisiones.
-
-📊 Me especializo en:
-- KPIs, reportes y métricas SLA
-- Visualización de datos (Power BI / Excel)
-- Análisis y limpieza de datos
-- Soporte técnico y gestión de incidencias
+<!-- ===================== QUICK INFO CARDS ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📊-Data_Analytics-f73c7b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈-Power_BI-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🗄️-SQL-4ea1ff?style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tecnologías
+## ✨ Sobre mí
 
-### 📊 Data & Analytics
-- Power BI
-- Excel avanzado
-- Google Sheets
-- SQL
-- Python
+> Analista de Sistemas y Licenciada en Ciencias de Datos enfocada en transformar datos en decisiones.
 
-### 💻 Programación
-- Python
-- SQL
-- JavaScript
-- Visual Basic
-- PSL (lógica de programación)
+💡 Trabajo con datos para:
+- 📊 Visualización y dashboards
+- 📈 KPIs y métricas de negocio
+- ⚙️ Automatización de procesos
+- 🧠 Análisis y limpieza de datos
 
-### 🧰 Herramientas
-- Git / GitHub
-- Linux (Ubuntu)
-- Windows
-- VS Code
+---
+
+## 🧠 Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,git,github,vscode,linux" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karen-G-mez&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-G-mez&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Karen-G-mez&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karen-G-mez&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+## 🔥 Actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karen-G-mez&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 📫 Contacto
 
-- 📧 Email: karengomeez97@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/karen-gomez97/
-- 📍 Argentina / España
-
----
-
-
-
-
-
-
-
-
-
+<p align="center">
+📧 karengomeez97@gmail.com  
+💼 linkedin.com/in/karen-gomez97  
+📍 Argentina / España
+</p>
 
 
 
