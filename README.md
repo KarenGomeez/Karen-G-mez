@@ -41,6 +41,11 @@
 - ⚙️ Automatización de procesos
 - 🧠 Análisis y limpieza de datos
 ---
+
+## • Check out my Social Media • 
+
+<a href src="https://www.instagram.com/_karenng__?igsh=cmdjMDVrdHNxc2dl">
+
 ## 🧠 Stack Tecnológico
 
 <p align="center">
