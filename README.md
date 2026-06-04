@@ -75,7 +75,6 @@
 
 <p align="center">
 📧 karengomeez97@gmail.com  
-
 💼 linkedin.com/in/karen-gomez97  
 📍 Argentina / España
 </p>
