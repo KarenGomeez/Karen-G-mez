@@ -49,9 +49,6 @@
   <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,git,github,vscode,linux" />
 </p>
 
-
----
-
 ## 🐍 Contributions
 
 <p align="center">
