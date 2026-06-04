@@ -34,13 +34,21 @@
 
 ## ✨ Sobre mí
 
-> Analista de Sistemas y Licenciada en Ciencias de Datos enfocada en transformar datos en decisiones.
+> Apasionada por los datos, la tecnología y la mejora continua. Me especializo en transformar información compleja en soluciones prácticas mediante análisis de datos, inteligencia de negocios y desarrollo de aplicaciones.
 
-💡 Trabajo con datos para:
-- 📊 Visualización y dashboards
-- 📈 KPIs y métricas de negocio
-- ⚙️ Automatización de procesos
-- 🧠 Análisis y limpieza de datos
+💡 Me enfoco en:
+
+* 📊 Diseño de dashboards e indicadores de gestión (KPIs)
+* 🗄️ Modelado, consulta y análisis de bases de datos SQL
+* 🔄 Procesos ETL, limpieza y transformación de datos
+* 📈 Business Intelligence y visualización de información
+* 🐍 Desarrollo de soluciones con Python, FastAPI y Flask
+* 🤖 Proyectos de Machine Learning y análisis predictivo
+* ⚙️ Automatización de reportes y procesos operativos
+* 🚀 Generación de insights para la toma de decisiones
+
+Siempre estoy explorando nuevas herramientas y metodologías para convertir datos en conocimiento útil y accionable.
+
 ---
 
 ## • Check out my Social Media • 
