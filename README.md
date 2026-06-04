@@ -6,7 +6,8 @@
 <h1 align="center">Karen Gomez</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="center">
-  Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
+  <img src="https://img.shields.io/badge/Análisis_de_Sistemas-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ciencias_de_Datos-06B6D4?style=for-the-badge" />
 </p>
 
 <img width="1983" height="793" alt="karen banner 2" src="https://github.com/user-attachments/assets/e5028a65-d9f4-4d64-a72e-67adcf6128f3" />
