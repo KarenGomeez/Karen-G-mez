@@ -52,8 +52,8 @@
     <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white">
 </a>
 
-<a href="www.linkedin.com/in/karen-gomez97">
-    <img src="https://www.linkedin.com/in/karen-gomez97/?skipRedirect=true">
+<a href="https://www.linkedin.com/in/karen-gomez97/?skipRedirect=true">
+    <img src="[https://www.linkedin.com/in/karen-gomez97/?skipRedirect=true](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)">
 </a>
 
 
