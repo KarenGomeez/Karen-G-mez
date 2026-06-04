@@ -48,6 +48,15 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
 </a>
 
+<a href="https://www.facebook.com/share/14fDzRJw4Gt/">
+    <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white">
+</a>
+
+<a href="www.linkedin.com/in/karen-gomez97">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
 ## 🧠 Stack Tecnológico
 
 <p align="center">
