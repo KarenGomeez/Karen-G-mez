@@ -1,55 +1,72 @@
+<!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="[github.com](https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70)" width="180" />
+  <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
 </p>
 
 <h1 align="center">Karen Gómez</h1>
 
+<!-- 👇 AQUÍ ESTÁ LO QUE PEDISTE -->
 <p align="center">
-  <strong>Analista de Sistemas · Licenciada en Ciencias de Datos</strong>
+  Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
 </p>
 
 <p align="center">
-  <img src="[readme-typing-svg.demolab.com](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F73C7B&center=true&vCenter=true&width=500&lines=Business+Intelligence;Data+Analytics;SQL+%7C+Python+%7C+Power+BI)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Automation" />
+</p>
+
+---
+
+<!-- ===================== QUICK INFO CARDS ===================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/📊-Data_Analytics-f73c7b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📈-Power_BI-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-Python-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🗄️-SQL-4ea1ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
+   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img src=" https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
 ---
 
 ## ✨ Sobre mí
 
-Especializada en transformar datos en decisiones. Diseño dashboards ejecutivos, automatizo reportes y construyo pipelines de datos que escalan.
+> Analista de Sistemas y Licenciada en Ciencias de Datos enfocada en transformar datos en decisiones.
 
-Actualmente enfocada en **Business Intelligence**, **análisis predictivo** y **visualización de datos**.
-
+💡 Trabajo con datos para:
+- 📊 Visualización y dashboards
+- 📈 KPIs y métricas de negocio
+- ⚙️ Automatización de procesos
+- 🧠 Análisis y limpieza de datos
 ---
 
-## 🛠️ Stack
+## • Check out my Social Media • 
+
+<a href="https://www.instagram.com/_karenng__/?igsh=cmdjMDVrdHNxc2dl">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
+</a>
+
+<a href="https://www.facebook.com/share/14fDzRJw4Gt/">
+    <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/karen-gomez97/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+
+## 🧠 Stack Tecnológico
 
 <p align="center">
-  <img src="[img.shields.io](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)" />
-  <img src="[img.shields.io](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)" />
-  <img src="[img.shields.io](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)" />
-  <img src="[img.shields.io](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)" />
-  <img src="[img.shields.io](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)" />
-  <img src="[img.shields.io](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)" />
+  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,git,github,vscode,linux" />
 </p>
 
----
-
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [**Fraud Detector**](https://github.com/KarenGomeez/fraud-detector) | Detección de fraudes financieros con ML sobre datasets desbalanceados | Python · XGBoost · SMOTE · Streamlit |
-| [**La Liga Analytics**](https://github.com/KarenGomeez/la-liga-analytics) | Dashboard BI con pipeline ETL para análisis de rendimiento deportivo | Python · pandas · Plotly |
-| [**NavMante v2.0**](https://github.com/KarenGomeez/navmante) | Sistema de gestión de mantenimiento con auth por roles | FastAPI · SQLite · Jinja2 |
-| [**SistemKa**](https://github.com/KarenGomeez/sistemka) | Gestión de clientes y órdenes de trabajo con panel admin | Flask · SQLite |
-
----
-
-## 🐍 Contribuciones
+## 🐍 Contributions
 
 <p align="center">
-  <img src="[raw.githubusercontent.com](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -57,10 +74,7 @@ Actualmente enfocada en **Business Intelligence**, **análisis predictivo** y **
 ## 📫 Contacto
 
 <p align="center">
-  <a href="mailto:karengomeez97@gmail.com">
-    <img src="[img.shields.io](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
-  </a>
-  <a href="[linkedin.com](https://www.linkedin.com/in/karen-gomez97/)">
-    <img src="[img.shields.io](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" />
-  </a>
+📧 karengomeez97@gmail.com  
+💼 linkedin.com/in/karen-gomez97  
+📍 Argentina / España
 </p>
