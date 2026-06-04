@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
 </p>
 
-<h1 align="center">Karen Gomez</h1>
+<h1 align="center">Karen Gomez</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="center">
   Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
@@ -14,8 +14,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Automation" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
----
+
 
 <!-- ===================== QUICK INFO CARDS ===================== -->
 <p align="center">
