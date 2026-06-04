@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/💻-Python-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🗄️-SQL-4ea1ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)" />
 
 </p>
 
