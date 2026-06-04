@@ -68,9 +68,17 @@ Siempre estoy explorando nuevas herramientas y metodologías para convertir dato
 
 ## 🧠 Stack Tecnológico
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,powerbi,excel,git,github,vscode,linux" />
-</p>
+### 📊 Data Analytics & BI
+Python • SQL • Power BI • Excel • Pandas • NumPy • Scikit-Learn
+
+### 💻 Desarrollo
+Flask • FastAPI • HTML • CSS • JavaScript • SQLite
+
+### ⚙️ Herramientas
+Git • GitHub • VS Code • Linux • Google Colab
+
+### 📈 Visualización
+Power BI • Plotly • Streamlit • Excel Dashboards
 
 ## 🐍 Contributions
 
