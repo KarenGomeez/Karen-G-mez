@@ -44,7 +44,9 @@
 
 ## • Check out my Social Media • 
 
-<a href src="https://www.instagram.com/_karenng__?igsh=cmdjMDVrdHNxc2dl">
+<a href="https://www.instagram.com/_karenng__/?igsh=cmdjMDVrdHNxc2dl">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
+</a>
 
 ## 🧠 Stack Tecnológico
 
