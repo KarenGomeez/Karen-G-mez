@@ -51,21 +51,6 @@ Siempre estoy explorando nuevas herramientas y metodologías para convertir dato
 
 ---
 
-## • Check out my Social Media • 
-
-<a href="https://www.instagram.com/_karenng__/?igsh=cmdjMDVrdHNxc2dl">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
-</a>
-
-<a href="https://www.facebook.com/share/14fDzRJw4Gt/">
-    <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/karen-gomez97/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-
 ## 🧠 Stack Tecnológico
 
 ### 📊 Data Analytics & BI
@@ -96,6 +81,19 @@ Power BI • Plotly • Streamlit • Excel Dashboards
 📍 Argentina / España
 </p>
 
+## • Check out my Social Media • 
+
+<a href="https://www.instagram.com/_karenng__/?igsh=cmdjMDVrdHNxc2dl">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> 
+</a>
+
+<a href="https://www.facebook.com/share/14fDzRJw4Gt/">
+    <img src="https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/karen-gomez97/?skipRedirect=true">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 
 
