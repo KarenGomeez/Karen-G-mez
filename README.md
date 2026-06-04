@@ -9,7 +9,7 @@
   Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
 </p>
 
-  <img src="<img width="1983" height="793" alt="karen banner 2" src="https://github.com/user-attachments/assets/e5028a65-d9f4-4d64-a72e-67adcf6128f3" />"
+<img width="1983" height="793" alt="karen banner 2" src="https://github.com/user-attachments/assets/e5028a65-d9f4-4d64-a72e-67adcf6128f3" />"
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Automation" />
