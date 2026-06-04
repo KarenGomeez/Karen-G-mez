@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
 </p>
 
-<h1 align="center">Karen Gomez</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+<h1 align="center">Karen Gomez 💗</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Análista_de_Sistemas-7C3AED?style=for-the-badge" />
