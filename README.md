@@ -40,9 +40,7 @@
 - 📈 KPIs y métricas de negocio
 - ⚙️ Automatización de procesos
 - 🧠 Análisis y limpieza de datos
-
 ---
-
 ## 🧠 Stack Tecnológico
 
 <p align="center">
