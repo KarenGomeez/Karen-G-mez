@@ -1,4 +1,3 @@
-![Uploading Karen banner.png…]()
 <!-- ===================== HEADER ===================== -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
@@ -10,7 +9,7 @@
   Técnica Superior en Análisis de Sistemas • Licenciada en Ciencias de Datos
 </p>
 
-
+ <img src="<img width="1983" height="793" alt="Karen banner" src="https://github.com/user-attachments/assets/4bc85f1f-22c5-4575-96ff-36457c6f5168" />" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F73C7B&center=true&vCenter=true&width=600&lines=Analista+de+Datos;Ciencias+de+Datos;SQL+%7C+Power+BI+%7C+Python;Data+Analytics+%26+Automation" />
