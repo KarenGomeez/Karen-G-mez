@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/85d83256-4c28-481d-81b7-8a1b082fcc70" />
 </p>
 
-<h1 align="center">Karen Gómez</h1>
+<h1 align="center">Karen Gomez</h1>
 
 <!-- 👇 AQUÍ ESTÁ LO QUE PEDISTE -->
 <p align="center">
