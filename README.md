@@ -76,7 +76,8 @@ Power BI • Plotly • Streamlit • Excel Dashboards
 ## 📫 Contacto
 
 <p align="center">
-📧 karengomeez97@gmail.com  
+📧 karengomeez97@gmail.com
+📧 Kajaqgomeez@gmail.com
 💼 linkedin.com/in/karen-gomez97  
 📍 Argentina / España
 </p>
